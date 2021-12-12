@@ -23,7 +23,7 @@ Eu sou o Lucca Juliani Pontes, Eu atualmente estou cursando Engenharia da Comput
 - 🌱 Estou atualmente estudando Javascript para me tornar um especialista em front-end
 - 👯 No momento estou mais interessado em me tornar um melhor profissional e colaborar com o meu time, do que procurar um novo emprego
 - 🥅 Objetivos de 2022: Colocar em prática meus aprendizados!
-- ⚡ Fun fact: Sou apaixonado por esportes e animes, também gosto bastente de jogar!
+- ⚡ Fun fact: Sou apaixonado por esportes e animes, também gosto bastante de jogar!
 
 <br>
 
