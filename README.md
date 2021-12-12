@@ -1,6 +1,6 @@
 ### Opa, tudo bem?
 
-- 🔭 Atualmente estou trabalhando na Alphacoed IT Solutions, em Alphaville/SP
+- 🔭 Atualmente estou trabalhando na Alphacode IT Solutions, em Alphaville/SP
 - 🌱 Atualmente estou aprendendo e melhorando minhas habilidades no front-end (especialmente em Javascript)
 - 📫 Como entrar em contato comigo: <br>
     Linkedin: https://www.linkedin.com/in/lucca-pontes-157009207/ <br>
